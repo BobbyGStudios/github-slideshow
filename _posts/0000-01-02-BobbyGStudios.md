@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Your text
+Bobby Games Studios is New and exating 
 Use the left arrow to go back!
